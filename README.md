@@ -23,6 +23,7 @@ A simple and beautiful **Login App** built using **Flutter** and **Dart**.
 
 ## 📸 Screenshots
 <img width="1256" height="935" alt="Image" src="https://github.com/user-attachments/assets/8ebc597a-2463-4f10-ad53-8ab9beadfe81" />
+<img width="1270" height="907" alt="Image" src="https://github.com/user-attachments/assets/8b4ada4a-511f-4b49-a93c-f172696595db" />
 
 ## 🏗️ Setup
 1. Clone the repository:
