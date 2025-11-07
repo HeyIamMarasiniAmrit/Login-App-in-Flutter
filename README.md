@@ -6,11 +6,25 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# 🔐 Flutter Login App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A simple and beautiful **Login App** built using **Flutter** and **Dart**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+- 📱 Responsive UI (works on all screen sizes)
+- 🔑 Email & password login
+- 🧠 Input validation
+- 🎨 Built with Material Design components
+- ⚡ Fast and smooth performance
+
+## 🧰 Tech Stack
+- Flutter 🐦
+- Dart 💙
+
+## 📸 Screenshots
+(Add your screenshots here — e.g., login screen, success screen)
+
+## 🏗️ Setup
+1. Clone the repository:
+   ```bash
+  
